@@ -30,6 +30,8 @@ description: '<p><B>The first book by distinguished novelist, journalist, and li
   public intellectual with this thoughtful and compelling study of a literary giant.
   <BR />This ebook has been professionally proofread to ensure accuracy and readability
   on all devices.<BR />'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37300#Henry-James
 gutenberg_issued: '2011-09-03'
 gutenberg_type: Text
 identifiers:
