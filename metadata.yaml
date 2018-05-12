@@ -1,0 +1,47 @@
+_repo: Henry-James_37300
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37300-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: West, Rebecca
+    aliases:
+    - Fairfield, Cicely Isabel
+    - Andrews, Cecily Isabel Fairfield
+    - Fairfield, Cecily Isabel
+    - Fairfield, Cicily Isabel
+    birthdate: 1892
+    deathdate: 1983
+    gutenberg_agent_id: '6499'
+    url: http://www.gutenberg.org/2009/agents/6499
+    wikipedia: http://en.wikipedia.org/wiki/Rebecca_West
+description: '<p><B>The first book by distinguished novelist, journalist, and literary
+  critic Rebecca West: a biography of Henry James</B><p><BR />Setting the standard
+  for a century''s worth of criticism, Rebecca West diagnosed Henry James as an American
+  who "could never feel at home until he was in exile" in this slim, readable biography,
+  published just a few months after his death in 1916.<p><BR />West boldly assesses
+  <I>Roderick Hudson</I> as "not a good book," and displays remarkable foresight in
+  describing <I>Daisy Miller</I> as a "sad and lovely" book that "will strike each
+  new generation afresh." An early advocate of feminist principles, she has fascinating
+  things to say about James''s heroines, and her division of his work into early and
+  late periods continues to be a basic principle of Jamesian scholarship.<p><BR />One
+  of the twentieth century''s brightest minds, Rebecca West began her career as a
+  public intellectual with this thoughtful and compelling study of a literary giant.
+  <BR />This ebook has been professionally proofread to ensure accuracy and readability
+  on all devices.<BR />'
+gutenberg_issued: '2011-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37300'
+  lccn: '67027663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'James, Henry, 1843-1916'
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+title: Henry James
+url: http://www.gutenberg.org/ebooks/37300
